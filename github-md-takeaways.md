@@ -11,6 +11,7 @@ I have limited experience with both.
 
 The first week and a half has already given me a few learnings that will stick with me.
 They may be minor but they have made an "ah ha" moment for me, which has made it stick with me more.
+I believe if I continue to have these moments, they will build and stack into habits and muscle memory.
 
 ## The GitHub Preview Tab
 
@@ -29,7 +30,7 @@ I've realized that:
 
 ## It's all about the 1s
 
-My next ah-ha learning moment was the approach to **ordered lists**. The fact that you do not need
+My next ah-ha learning moment was the approach to **ordered lists**. The fact that you do ***not*** need
 to number them 1, 2, 3, 4, etc. is an important thing to know. I remember seeing Markdown in the past
 that had all 1s and I was really confused.
 
@@ -39,7 +40,7 @@ This got me researching about what the best practice was. From from what I found
 is to use all 1s. By using all 1s, if your developer needed to add a step, you don't have to redo the numbers.
 Another benefit is the log change will not look like you changed 15 lines, when you were just trying to swap *one* number.
 
-## Docs as Code: Separating content and Presentation
+## Docs as Code: Separating content and presentation
 
 I was introduced to this concept before but hearing it again, and learning more about Markdown
 with that concept in mind, puts things into perspective. 
@@ -48,6 +49,16 @@ For example:
 
 - Using all 1s is reinforcing that idea. The **1.** is an identifier that a structure is being used.
 - So the 2, 3, 4 isn't needed. The 1, 2, 3, 4 are actually more of the "presentation" vs "content".
+
+I think this concept is crucial to my learning. I tend to put a lot of content into my help docs, slide decks, etc.
+I end up with great content but the output (presentation) of it makes it hard for users to digest. 
+
+**Why?** Because I'm squishing my content and presentation together on a Google Slide at the same time. That
+"source" slide deck my team uses really isn't in the proper format to be able to re-use and update the content.
+
+With **content vs presentation**, along with chunking the pieces of content, I believe that is the key
+to my own success at finding solutions I am currently looking for and for me to become more experienced
+in the technical training field.
 
 ## Bonus takeaway: I love the block coding
 
