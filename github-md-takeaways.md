@@ -1,11 +1,14 @@
-# My 3 "ah-ha" moments about GitHub and Markdown during weeks 1-2
+# My 3 "ah-ha" moments about GitHub and Markdown
 
-GitHub and Markdown are two topics that I was eager to revisit and dive deeper into.
-I have limited experience with both. A goal for this class is to be able to, from memory,
-be able to use Markdown at any time. In regards to GitHub, I would like to have a reason
-to continue using it after this class. The first week and a half have already given me
-a few learnings that will stick with me. They may be minor but they have made that
-"ah ha" moment for me, to make it stick.
+**GitHub** and **Markdown** are two topics that I was eager to revisit and dive deeper into.
+I have limited experience with both. Two goals for this class is to:
+
+> Be able to, from memory, use Markdown at any time.
+> 
+> And second, I would like to have a reason to continue using GitHub after this class.
+
+The first week and a half have already given me a few learnings that will stick with me.
+They may be minor but they have made that "ah ha" moment for me, to make it stick.
 
 ## The GitHub Preview Tab
 
@@ -14,18 +17,21 @@ Perhaps one of the most basic functions in GitHub: using the **preview** tab vs 
 first assignment, it's embarrassing seeing the 20+ unnecessary commits. I found that:
 
 1. Commits should not be used as *saving* or *viewing* the change.
-2. It should be used for meaningful changes.
-3. I would think having the unecessary amount of commits would also be bad practice when you're working in teams too
+1. It should be used for meaningful changes.
+1. Having the unecessary amount of commits would also be bad practice when you're working in teams too.
+
+> [!NOTE]
+> I usually would not use the ordered list in the above list but I wanted to try both kind of lists.
 
 ## It's all about the 1s
 
-My next ah-ha learning moment was the approach to ordered lists. The fact that you do not need
+My next ah-ha learning moment was the approach to **ordered lists**. The fact that you do not need
 to number them 1, 2, 3, 4, etc. All it needs is a beginning line, with a number, and space.
-This got me thinking and researching about best practices. From from what I found, a best practice
+This got me researching about the best practices. From from what I found, a best practice (or many common practice)
 is to use all 1s. 
 
-It makes sense that using all 1s would have benefits when you are adding and removing numbers, you
-don't have to redo the numbers. Another benefit is the log change will not look like you changed
+It makes sense that using all 1s would have benefits when you are adding and removing numbers. You
+don't have to redo the numbers. Another benefit is the log change will *not* look like you changed
 15 lines, when you were just trying to swap one number.
 
 ## Docs as Code: Separating content and Presentation
