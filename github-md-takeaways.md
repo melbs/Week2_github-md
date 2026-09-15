@@ -10,7 +10,7 @@ I have limited experience with both.
 > I would like to have a reason to continue using `GitHub` after this class.
 
 The first week and a half has already given me a few key learnings. They may be minor but
-they have made an "ah ha" moment for me, which has made it stick with me.
+they have made an "ah-ha" moment for me, which has made it stick with me.
 I believe if I continue to have these moments, they will build into habits and muscle memory.
 
 ## The GitHub Preview Tab
@@ -21,9 +21,9 @@ first assignment, it's embarrassing seeing the 20+ unnecessary commits.
 
 I've realized that:
 
-1. Commits should not be used as *saving* or *viewing* the change.
-1. It should be used for *meaningful* changes.
-1. Having the unnecessary amount of commits would also be bad practice when you're working in a team.
+1. Commits should not be used as *saving* or *viewing* changes.
+1. They should be used for *meaningful* changes.
+1. Having an unnecessary amount of commits would also be bad practice when you're working in a team.
 
 > [!NOTE]
 > I usually would not use the **ordered list** in the above list but I wanted to try both kinds of lists.
@@ -36,9 +36,9 @@ that had all 1s and I was really confused.
 
 ***Such a simple piece of learning that clears up confusion.***
 
-This got me researching about what the best practice was. From from what I found, a best practice (or maybe a "common" practice)
+This got me researching about what the best practice was. From what I found, a best practice (or maybe a "common" practice)
 is to use all 1s. By using all 1s, if your developer needed to add a step, you don't have to redo the numbers.
-Another benefit is the log change will not look like you changed 15 lines, when you were just trying to swap *one* number.
+Another benefit is the change log will not look like you changed 15 lines, when you were just trying to swap *one* number.
 
 ## Docs as Code: Separating content and presentation
 
@@ -48,7 +48,7 @@ with that concept in mind, puts things into perspective.
 For example:
 
 - Using all 1s is reinforcing that idea. The **1.** is an identifier that a structure is being used.
-- So the 2, 3, 4 isn't needed. The 1, 2, 3, 4 are actually more of the "presentation" vs "content".
+- So the 2, 3, 4 aren't needed. The 1, 2, 3, 4 are actually more of the "presentation" vs "content".
 
 I think this concept is crucial to my learning. I tend to put a lot of content into my help docs, slide decks, etc.
 I end up with great content but the output (presentation) of it makes it hard for users to digest. 
@@ -62,7 +62,7 @@ in the technical training field.
 
 ## Bonus takeaway: I love the block coding
 
-Probably my favorite Markdown code has been using the back ticks for code. Whether it's inline code using a
+Probably my favorite Markdown code has been using the backticks for code. Whether it's inline code using a
 backtick for words like `HTML` and `CSS` or if it's a true block of code where you use code fencing:
 
 ```
