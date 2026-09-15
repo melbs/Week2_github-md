@@ -9,9 +9,9 @@ I have limited experience with both.
 > 
 > I would like to have a reason to continue using `GitHub` after this class.
 
-The first week and a half has already given me a few learnings that will stick with me.
-They may be minor but they have made an "ah ha" moment for me, which has made it stick with me more.
-I believe if I continue to have these moments, they will build and stack into habits and muscle memory.
+The first week and a half has already given me a few key learnings. They may be minor but
+they have made an "ah ha" moment for me, which has made it stick with me.
+I believe if I continue to have these moments, they will build into habits and muscle memory.
 
 ## The GitHub Preview Tab
 
@@ -23,20 +23,20 @@ I've realized that:
 
 1. Commits should not be used as *saving* or *viewing* the change.
 1. It should be used for *meaningful* changes.
-1. Having the unecessary amount of commits would also be bad practice when you're working in a team.
+1. Having the unnecessary amount of commits would also be bad practice when you're working in a team.
 
 > [!NOTE]
-> I usually would not use the **ordered list** in the above list but I wanted to try both kind of lists.
+> I usually would not use the **ordered list** in the above list but I wanted to try both kinds of lists.
 
 ## It's all about the 1s
 
 My next ah-ha learning moment was the approach to **ordered lists**. The fact that you do ***not*** need
-to number them 1, 2, 3, 4, etc. is an important thing to know. I remember seeing Markdown in the past
+to number them 1, 2, 3, etc. is important to know. I remember seeing Markdown in the past
 that had all 1s and I was really confused.
 
 ***Such a simple piece of learning that clears up confusion.***
 
-This got me researching about what the best practice was. From from what I found, a best practice (or maybe just a "common" practice)
+This got me researching about what the best practice was. From from what I found, a best practice (or maybe a "common" practice)
 is to use all 1s. By using all 1s, if your developer needed to add a step, you don't have to redo the numbers.
 Another benefit is the log change will not look like you changed 15 lines, when you were just trying to swap *one* number.
 
